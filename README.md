@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sneha Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Yogaventure](https://github.com/SnehaChauhan345/YogaVenture.git)
+- 🔭 I’m currently working on [ElderCare Shop](https://ecommerce-spc.great-site.net/)
 
 - 🌱 I’m currently learning **Wordpress Development ,Backend Development**
 
